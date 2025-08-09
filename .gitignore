@@ -1,0 +1,10 @@
+.idea/
+.venv/
+.vscode/
+backend/.idea/
+backend/.venv/
+backend/__pucache__/
+frontend/.idea/
+frontend/node_modules/
+
+
