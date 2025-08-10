@@ -3,7 +3,8 @@
 .vscode/
 backend/.idea/
 backend/.venv/
-backend/__pucache__/
+backend/__pycache__/
+backend/app/__pycache__/
 frontend/.idea/
 frontend/node_modules/
 
